@@ -7,6 +7,4 @@ console.log(nome, typeof nome,
             idade, typeof idade,
             altura, typeof altura,
             estudando, typeof estudando);
-console.log(typeof idade);
-console.log(typeof altura);
-console.log(typeof estudando);
+
